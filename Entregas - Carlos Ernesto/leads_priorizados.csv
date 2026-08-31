@@ -1,0 +1,11 @@
+﻿score,empresa,justificativa,Contato,Fone
+90,LogExpress,"Interesse alto, sem ERP, porte médio, faturamento médio e origem site.",André Souza,(34) 99183-2297
+86,MetalCenter,"Interesse alto, ERP simples, porte médio, faturamento alto e origem inbound.",Juliano Ferreira,(34) 99256-7813
+82,Distribuidora Central,"Interesse alto, ERP antigo, porte médio, faturamento médio e origem site.",Eduardo Martins,(64) 99142-6678
+79,AgroCampo,"Interesse alto, ERP em planilhas, porte médio, faturamento médio e origem outbound.",Carlos Mendes,(62) 99124-3801
+76,Distribuidora CentroOeste,"Interesse médio, ERP simples, porte grande, faturamento médio e origem outbound.",Felipe Carvalho,(61) 99388-1204
+66,Comercial Brasil Norte,"Interesse baixo, ERP simples, porte médio, faturamento alto e origem indicação.",Thiago Alves,(64) 99167-8895
+61,AgroSul,"Interesse baixo, ERP simples, porte grande, faturamento baixo e origem inbound.",Marcos Pereira,(63) 99271-5542
+48,MecSul,"Interesse baixo, sem ERP, porte pequeno, faturamento baixo e origem evento.",Rafael Oliveira,(62) 99317-4420
+43,AgroForte,"Interesse baixo, ERP consolidado, porte pequeno, faturamento médio e origem inbound.",Pedro Assunção,(63) 98745-9087
+40,LogMaster,"Interesse baixo, ERP simples, porte pequeno, faturamento baixo e origem evento.",Bruno Ribeiro,(62) 99205-7731
