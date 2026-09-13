@@ -1,0 +1,9 @@
+{
+  "precision": 0.6823798917992967,
+  "recall": 0.5521235521235521,
+  "mAP50": 0.5988548540877884,
+  "mAP50_95": 0.4277435289379306,
+  "validation_images": 134,
+  "weights": "/content/vigiagado_artifacts/yolo26s_bovino_best.pt",
+  "data": "/content/vigiagado_openimages_cattle/data.yaml"
+}

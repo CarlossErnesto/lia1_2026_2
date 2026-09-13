@@ -1,0 +1,5 @@
+path: /content/vigiagado_openimages_cattle
+train: images/train
+val: images/val
+names:
+  0: bovino

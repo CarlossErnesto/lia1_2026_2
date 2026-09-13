@@ -1,0 +1,23 @@
+{
+  "created_at": "2026-09-13T21:46:29.252208",
+  "params": {
+    "model": "yolo26s.pt",
+    "imgsz": 640,
+    "epochs": 40,
+    "patience": 10,
+    "batch": -1,
+    "seed": 42,
+    "amp": true,
+    "device": 0
+  },
+  "run_dir": "/content/vigiagado_training_runs/yolo26s_bovino_20260913_213739",
+  "best_weights": "/content/vigiagado_artifacts/yolo26s_bovino_best.pt",
+  "last_weights": "/content/vigiagado_artifacts/yolo26s_bovino_last.pt",
+  "epoch9_weights": "/content/vigiagado_artifacts/yolo26s_bovino_epoch09.pt",
+  "dataset_yaml": "/content/vigiagado_openimages_cattle/data.yaml",
+  "hardware": {
+    "device": "NVIDIA A100-SXM4-40GB",
+    "cuda_available": true,
+    "vram_gb": 39.49
+  }
+}

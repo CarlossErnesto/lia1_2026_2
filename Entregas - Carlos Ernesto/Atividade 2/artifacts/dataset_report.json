@@ -1,0 +1,41 @@
+{
+  "status": "aprovado",
+  "dataset": "Open Images V7",
+  "source": "Google Open Images via FiftyOne Dataset Zoo",
+  "annotations_license": "CC BY 4.0",
+  "images_license_listing": "CC BY 2.0",
+  "license_note": "O Open Images recomenda verificar a licença de cada imagem. O dataset completo não é redistribuído por este projeto.",
+  "class_source": "Cattle",
+  "class_exported": {
+    "0": "bovino"
+  },
+  "seed": 42,
+  "requested": {
+    "train": 1200,
+    "validation": 300
+  },
+  "effective": {
+    "train_images": 1200,
+    "validation_images": 134,
+    "train_boxes": 4919,
+    "validation_boxes": 259
+  },
+  "audit": {
+    "train": {
+      "images": 1200,
+      "labels": 1200,
+      "boxes": 4919,
+      "images_without_boxes": 0,
+      "labels_without_images": 0,
+      "errors": []
+    },
+    "val": {
+      "images": 134,
+      "labels": 134,
+      "boxes": 259,
+      "images_without_boxes": 0,
+      "labels_without_images": 0,
+      "errors": []
+    }
+  }
+}
