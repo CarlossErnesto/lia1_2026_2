@@ -58,7 +58,7 @@ Para apresentação, mantenha:
 RETRAIN_MODEL = False
 ```
 
-Disponibilize `artifacts/yolo26s_bovino_best.pt` e o vídeo de demonstração (gado5.mp4) e execute o notebook completo.
+Baixe o arquivo `artifacts/yolo26s_bovino_best.pt` e o vídeo de demonstração (gado5.mp4) e execute o notebook completo.
 
 Para reproduzir o fine-tuning:
 
