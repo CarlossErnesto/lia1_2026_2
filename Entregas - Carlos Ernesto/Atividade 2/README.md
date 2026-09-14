@@ -58,7 +58,7 @@ Para apresentação, mantenha:
 RETRAIN_MODEL = False
 ```
 
-Disponibilize `artifacts/yolo26s_bovino_best.pt` e o vídeo de demonstração e execute o notebook completo.
+Disponibilize `artifacts/yolo26s_bovino_best.pt` e o vídeo de demonstração (gado5.mp4) e execute o notebook completo.
 
 Para reproduzir o fine-tuning:
 
@@ -92,3 +92,6 @@ VigiaGado/
 - Danger Zone é uma ROI 2D, não uma geofence física;
 - não há tracking nem reconhecimento individual;
 - o vídeo de demonstração não possui ground truth certificado para contagem.
+
+## Fontes
+https://www.youtube.com/watch?v=9ww7BPbNdc4&list=LL&index=6
