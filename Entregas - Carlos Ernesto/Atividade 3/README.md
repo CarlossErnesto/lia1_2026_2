@@ -1,4 +1,4 @@
-# VigiaGado
+# VigiaGado - ONNX
 
 Projeto acadêmico de visão computacional para monitoramento visual de áreas rurais. A aplicação recebe um vídeo MP4, detecta objetos com YOLO11n, conta bovinos visíveis, observa uma **Danger Zone** e registra alertas após persistência temporal. A interface Gradio permite escolher a inferência **PyTorch** ou **ONNX Runtime** sem mudar o restante da análise.
 
