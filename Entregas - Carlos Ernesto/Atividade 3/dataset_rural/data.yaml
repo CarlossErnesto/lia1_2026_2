@@ -1,0 +1,12 @@
+# Dataset rural preparado; imagens e rótulos estão em images/ e labels/.
+# Resolva os caminhos relativos a partir da pasta deste arquivo.
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: cow
+  1: wild_boar
+  2: jaguar
+  3: wolf
+  4: person
+  5: dog

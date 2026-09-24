@@ -1,0 +1,9 @@
+ultralytics==8.3.203
+torch>=2,<3
+torchvision>=0.15,<1
+opencv-python==4.11.0.86
+onnx>=1.17,<2
+onnxruntime>=1.30,<2
+onnxscript>=0.5,<1
+gradio==6.28.0
+imageio-ffmpeg==0.6.0
