@@ -10,6 +10,8 @@ https://vigiagado-485431963319.southamerica-east1.run.app
 
 > O serviço utiliza scale-to-zero no Google Cloud Run. Após um período de inatividade, a primeira abertura pode levar cerca de 1–2 minutos.
 
+Segue um link com um video de exemplo para testar a aplicação: https://drive.google.com/drive/folders/1adq267fgVoDYq27qzS6FUbvkJsDJ8ysM?usp=sharing
+
 ## Visão geral e funcionalidades
 
 - Detecção YOLO11n em vídeo, com boxes e saída MP4 anotada.
@@ -19,18 +21,6 @@ https://vigiagado-485431963319.southamerica-east1.run.app
 - Upload MP4, prévia da zona, resultado em vídeo, contagens, motivos, eventos e JSON técnico na interface Gradio.
 
 As categorias de ameaça e intruso dependem do cenário. O vídeo bovino validado produziu `WARNING` por presença de bovinos na zona; não houve demonstração com predador real. Os alertas são apoio à análise visual, não confirmação de perigo físico.
-
-## Demonstração
-
-| Recurso | Endereço |
-|---|---|
-| Site publicado | `SITE_URL_AQUI` |
-| Captura da interface | [Tela inicial](docs/interface.png) |
-| Vídeo/GIF autorizado | `VIDEO_DEMO_AQUI` |
-
-Os marcadores de site e vídeo devem ser substituídos somente depois da publicação dos respectivos materiais. A captura mostra a versão sem vídeo pré-carregado. Nenhum vídeo é incluído neste repositório. Para uma apresentação local, use o upload com um MP4 de sua autoria ou com permissão de uso; um arquivo autorizado chamado `samples/gado5.mp4` ou `samples/gado1.mp4` também aparece automaticamente como opção local, mas é ignorado pelo Git.
-
-![Tela inicial do VigiaGado com seleção PyTorch/ONNX e upload MP4](docs/interface.png)
 
 ## Arquitetura
 
