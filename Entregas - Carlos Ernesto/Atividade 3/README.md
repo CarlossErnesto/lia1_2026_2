@@ -69,6 +69,7 @@ Fontes utilizadas:
 
 ---
 
+
 ## Modelos
 
 | Opção | Backend |
@@ -82,3 +83,29 @@ Arquivos incluídos:
 models/yolo11n.pt
 models/yolo11n.onnx
 models/yolo11n.onnx.data
+
+## Próximos passos
+
+O VigiaGado foi desenvolvido como um MVP e possui espaço para expansão.
+
+A principal evolução planejada é utilizar o **dataset rural preparado nesta atividade** para realizar fine-tuning de um modelo YOLO voltado à identificação de fauna potencialmente ameaçadora ao ambiente rural.
+
+O dataset atual já contém exemplos anotados de:
+
+- `jaguar` — onça-pintada, como exemplo de predador;
+- `wild_boar` — javali, como animal potencialmente invasor ou de risco.
+
+A evolução prevista é:
+
+```text
+Dataset rural
+    ↓
+Treinamento / fine-tuning YOLO
+    ↓
+Modelo rural customizado
+    ↓
+Detecção de javali e onça-pintada
+    ↓
+Integração com a Danger Zone
+    ↓
+Alertas específicos de ameaça
