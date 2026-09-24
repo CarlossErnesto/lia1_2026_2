@@ -84,6 +84,8 @@ models/yolo11n.pt
 models/yolo11n.onnx
 models/yolo11n.onnx.data
 
+---
+
 ## Próximos passos
 
 O VigiaGado foi desenvolvido como um MVP e possui espaço para expansão.
