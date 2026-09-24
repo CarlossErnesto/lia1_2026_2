@@ -83,7 +83,7 @@ Arquivos incluídos:
 models/yolo11n.pt
 models/yolo11n.onnx
 models/yolo11n.onnx.data
-
+```
 ---
 
 ## Próximos passos
