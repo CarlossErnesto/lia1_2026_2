@@ -2,7 +2,13 @@
 
 Projeto acadêmico de visão computacional para monitoramento visual de áreas rurais. A aplicação recebe um vídeo MP4, detecta objetos com YOLO11n, conta bovinos visíveis, observa uma **Danger Zone** e registra alertas após persistência temporal. A interface Gradio permite escolher a inferência **PyTorch** ou **ONNX Runtime** sem mudar o restante da análise.
 
-Esta é uma release candidate preparada para repositório e deploy. A validação funcional foi feita localmente em Windows; **o deploy público no Render/Linux ainda não foi testado**. O vídeo bovino usado na validação foi excluído da distribuição porque seu direito de redistribuição não está confirmado. Para demonstrar, envie um MP4 autorizado pela interface.
+## Demonstração online
+
+A aplicação está disponível em:
+
+https://vigiagado-485431963319.southamerica-east1.run.app
+
+> O serviço utiliza scale-to-zero no Google Cloud Run. Após um período de inatividade, a primeira abertura pode levar cerca de 1–2 minutos.
 
 ## Visão geral e funcionalidades
 
