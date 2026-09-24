@@ -10,7 +10,9 @@ https://vigiagado-485431963319.southamerica-east1.run.app
 
 > O serviço utiliza scale-to-zero no Google Cloud Run. Após um período de inatividade, a primeira abertura pode levar cerca de 1–2 minutos.
 
-Segue um link com um video de exemplo para testar a aplicação: https://drive.google.com/drive/folders/1adq267fgVoDYq27qzS6FUbvkJsDJ8ysM?usp=sharing
+Segue um link com um video de exemplo para testar a aplicação:
+
+https://drive.google.com/drive/folders/1adq267fgVoDYq27qzS6FUbvkJsDJ8ysM?usp=sharing
 
 ## Visão geral e funcionalidades
 
